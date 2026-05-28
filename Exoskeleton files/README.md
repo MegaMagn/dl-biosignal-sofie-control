@@ -6,21 +6,21 @@ Here, you will find all the necessary files to print and assemble your own soft 
 
 ## Folders and files
 - Code  
-  - Arduino_ESP32 project files
+  - Arduino_ESP32 project files  
       Contains the Arduino .ino file and the .cpp and .h files for controlling and logging data on the ESP32.
-  - Arduino_ESP32_EMG_control project files
+  - Arduino_ESP32_EMG_control project files  
       Contains the Arduino .ino file and the .cpp and .h files for controlling the exoskeleton with the classification network.
-  - ESPLogger.py
+  - ESPLogger.py  
       The logging and communication script meant to run on the computer in conjunction with the exoskeleton.
-  - requirements.txt
+  - requirements.txt  
       required python packages
-- Enclosure
+- Enclosure  
     Contains the .stl files used for the electronics enclosure.
-- Index and thumb version
+- Index and thumb version  
     Contains the .stl files for constructing the main glove part, the thumb module and the index module, along with an assortment of PTFE tube clamps used to secure the PTFE tubes to the glove 
-- Index only version
+- Index only version  
     Contains the .stl files for constructing the main glove part and the index module.
-- Miscellaneous
+- Miscellaneous  
     Contains some miscellaneous files for some of the test setups
    
 ## Hardware needed
