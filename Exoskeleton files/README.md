@@ -42,8 +42,8 @@ The exoskeleton is primarily printed on a Prusa MK3s and a Prusa XL 5T in red va
 The StretchSense sensor is made of Conductive Filaflex TPU from Recreus, again dried and printed using their recommended settigns on a Prusa MK3s at a nozzle temeperature of 240°C
 
 ## Environment
-Python version: 3.11
-Install:
-py -3.11 -m venv .venv
-source .venv/Scripts/activate
+Python version: 3.11  
+Install:  
+py -3.11 -m venv .venv  
+source .venv/Scripts/activate  
 pip install -r requirements.txt
