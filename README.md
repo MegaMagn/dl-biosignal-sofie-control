@@ -20,6 +20,8 @@ Together, these components form a soft wearable exoskeleton system capable of as
 
 ```text
 .
+├── Deep Learning-Based Biosignal Control of a Soft Hand Exoskeleton for Grasp Assistance - report
+├── Supplementary - Deep Learning-Based Biosignal Control of a Soft Hand Exoskeleton for Grasp Assistance
 ├── Exoskeleton
 │   ├── Code
 │   ├── Enclosure
@@ -173,7 +175,7 @@ When working with the device:
 
 ## Authors
 
-Magnus Malthe Sigsgaard Nielsen
+Magnus Malthe Sigsgaard Nielsen  
 Nicklas Nikolaj Grønvall
 
 University of Southern Denmark
@@ -185,4 +187,4 @@ SDU Biorobotics / SDU Soft Robotics
 
 No license has currently been selected for this repository. All rights reserved.
 
-The contents of this repository are made available for reference and documentation purposes only. No permission is granted to use, copy, modify, distribute, or commercialize the code, CAD files, documentation, or other materials without explicit written permission from the authors.
+The contents of this repository are made available for reference and documentation purposes only. Non-commercial use, sharing, distribution, and reproduction in any medium or format are permitted, provided that appropriate credit is given to the original authors and source
