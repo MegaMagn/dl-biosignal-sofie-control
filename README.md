@@ -37,7 +37,7 @@ Together, these components form a soft wearable exoskeleton system capable of as
 │   │   ├── models
 │   │   └── utilities
 │   │
-│   └── mujoco
+└───└── mujoco
 ```
 
 ## Folders and files
