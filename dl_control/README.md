@@ -73,6 +73,7 @@ requirements_mujoco holds the requried libaries for MuJoCo execution
 requirements_dl is for basic use.
 
 **OLD VERSION CONFLICT** - change these to avoid sherpa shutdown erros:
+
 Follow the path : .venv/lib/python3.11/site-packages/GPyOpt/core/evaluators/batch_local_penalization.py
 
 Do the following change in line 67:
