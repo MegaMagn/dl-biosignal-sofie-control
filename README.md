@@ -30,14 +30,14 @@ Together, these components form a soft wearable exoskeleton system capable of as
 │   ├── Index only version
 │   └── Miscellaneous
 │   
-├── Deep Learning-Based Classification
-│   ├── Code
-│   │   ├── data_fusion
-│   │   ├── experiment
-│   │   ├── models
-│   │   └── utilities
-│   │
-└───└── mujoco
+└── Deep Learning-Based Classification
+    ├── Code
+    │   ├── data_fusion
+    │   ├── experiment
+    │   ├── models
+    │   └── utilities
+    │
+    └── mujoco
 ```
 
 ## Folders and files
