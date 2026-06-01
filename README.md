@@ -20,6 +20,8 @@ Together, these components form a soft wearable exoskeleton system capable of as
 
 ```text
 .
+├── Deep Learning-Based Biosignal Control of a Soft Hand Exoskeleton for Grasp Assistance - report
+├── Supplementary - Deep Learning-Based Biosignal Control of a Soft Hand Exoskeleton for Grasp Assistance
 ├── Exoskeleton
 │   ├── Code
 │   ├── Enclosure
