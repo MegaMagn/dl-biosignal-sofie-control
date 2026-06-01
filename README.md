@@ -175,7 +175,7 @@ When working with the device:
 
 ## Authors
 
-Magnus Malthe Sigsgaard Nielsen
+Magnus Malthe Sigsgaard Nielsen  
 Nicklas Nikolaj Grønvall
 
 University of Southern Denmark
